@@ -33,16 +33,15 @@ The software was implemented using Tkinter which is a standard Python GUI Librar
 
 <hr/>
 <h2>Screenshots</h2>
-![Test1](https://github.com/sinking8/Covi-Buddy/blob/main/screenshots/face_mask.jpeg)
+![Test1](https://github.com/sinking8/Wind-Data-Analysis-Software/blob/main/screenshots/1.png)
+![Test1](https://github.com/sinking8/Wind-Data-Analysis-Software/blob/main/screenshots/2.png)
+![Test1](https://github.com/sinking8/Wind-Data-Analysis-Software/blob/main/screenshots/3.png)
+![Test1](https://github.com/sinking8/Wind-Data-Analysis-Software/blob/main/screenshots/4.png)
+![Test1](https://github.com/sinking8/Wind-Data-Analysis-Software/blob/main/screenshots/5.png)
+![Test1](https://github.com/sinking8/Wind-Data-Analysis-Software/blob/main/screenshots/6.png)
 
-### ChatBot
-![Test2](https://github.com/sinking8/Covi-Buddy/blob/main/screenshots/chatbot.png)
 
-### Covid Tracker
-![Covid_Mask_Detector](https://github.com/sinking8/Covi-Buddy/blob/main/screenshots/covid_tracker.png)
 
-### Covid Detector Quiz
-![Covid_Mask_Detector](https://github.com/sinking8/Covi-Buddy/blob/main/screenshots/quiz.png)
 <hr>
 <h2>Note</h2>
 
