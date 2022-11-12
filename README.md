@@ -1,4 +1,4 @@
-﻿# Wind Data Analysis Software
+# Wind Data Analysis Software
 
 ## I. Introduction
 
@@ -33,12 +33,13 @@ The software was implemented using Tkinter which is a standard Python GUI Librar
 
 <hr/>
 <h2>Screenshots</h2>
-![Test1](https://github.com/sinking8/Wind-Data-Analysis-Software/blob/main/screenshots/1.png)
-![Test1](https://github.com/sinking8/Wind-Data-Analysis-Software/blob/main/screenshots/2.png)
-![Test1](https://github.com/sinking8/Wind-Data-Analysis-Software/blob/main/screenshots/3.png)
-![Test1](https://github.com/sinking8/Wind-Data-Analysis-Software/blob/main/screenshots/4.png)
-![Test1](https://github.com/sinking8/Wind-Data-Analysis-Software/blob/main/screenshots/5.png)
-![Test1](https://github.com/sinking8/Wind-Data-Analysis-Software/blob/main/screenshots/6.png)
+<img src="https://github.com/sinking8/Wind-Data-Analysis-Software/blob/main/screenshots/1.png"/>
+<img src="https://github.com/sinking8/Wind-Data-Analysis-Software/blob/main/screenshots/2.png"/>
+<img src="https://github.com/sinking8/Wind-Data-Analysis-Software/blob/main/screenshots/3.png"/>
+<img src="https://github.com/sinking8/Wind-Data-Analysis-Software/blob/main/screenshots/4.png"/>
+<img src="https://github.com/sinking8/Wind-Data-Analysis-Software/blob/main/screenshots/5.png"/>
+<img src="https://github.com/sinking8/Wind-Data-Analysis-Software/blob/main/screenshots/6.png"/>
+
 
 
 
