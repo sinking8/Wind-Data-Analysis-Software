@@ -33,16 +33,17 @@ The software was implemented using Tkinter which is a standard Python GUI Librar
 
 <hr/>
 <h2>Screenshots</h2>
-<img height="400" src="https://github.com/sinking8/Wind-Data-Analysis-Software/blob/main/screenshots/1.png"/>
-<img height="400" src="https://github.com/sinking8/Wind-Data-Analysis-Software/blob/main/screenshots/2.png"/>
-<img height="400" src="https://github.com/sinking8/Wind-Data-Analysis-Software/blob/main/screenshots/3.png"/>
+<img height="600" width="900" src="https://github.com/sinking8/Wind-Data-Analysis-Software/blob/main/screenshots/1.png"/>
+<img height="600" width="900" src="https://github.com/sinking8/Wind-Data-Analysis-Software/blob/main/screenshots/2.png"/>
+<img height="600" width="900" src="https://github.com/sinking8/Wind-Data-Analysis-Software/blob/main/screenshots/3.png"/>
+
+<img height="600" width="900" src="https://github.com/sinking8/Wind-Data-Analysis-Software/blob/main/screenshots/4.png"/>
 <div style="flex">
-<img height="400" src="https://github.com/sinking8/Wind-Data-Analysis-Software/blob/main/screenshots/4.png"/>
-<img height="400" src="https://github.com/sinking8/Wind-Data-Analysis-Software/blob/main/screenshots/5.png"/>
+<img height="400" width="450" src="https://github.com/sinking8/Wind-Data-Analysis-Software/blob/main/screenshots/5.png"/>
+<img height="400" width="450" src="https://github.com/sinking8/Wind-Data-Analysis-Software/blob/main/screenshots/6.png"/>
 </div>
-<img height="400" src="https://github.com/sinking8/Wind-Data-Analysis-Software/blob/main/screenshots/6.png"/>
-<img height="400" src="https://github.com/sinking8/Wind-Data-Analysis-Software/blob/main/screenshots/7.png"/>
-<img height="400" src="https://github.com/sinking8/Wind-Data-Analysis-Software/blob/main/screenshots/8.png"/>
+<img height="400" width="900" src="https://github.com/sinking8/Wind-Data-Analysis-Software/blob/main/screenshots/7.png"/>
+<img height="400" width="900" src="https://github.com/sinking8/Wind-Data-Analysis-Software/blob/main/screenshots/8.png"/>
 
 
 
